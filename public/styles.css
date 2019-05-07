@@ -15,6 +15,9 @@ nav, footer {
 
 main section {
     border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
     margin-bottom: 5%;
     display: flex;
     flex-direction: column;
@@ -115,6 +118,9 @@ footer a {
 .cat-card-container img {
     width: 100%;
     border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
 }
 
 .cat-card-container p {
